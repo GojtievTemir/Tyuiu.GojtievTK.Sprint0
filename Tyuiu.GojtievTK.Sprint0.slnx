@@ -11,8 +11,8 @@
     <Project Path="Tyuiu.GojtievTK.Sprint0.Task2.V0/Tyuiu.GojtievTK.Sprint0.Task2.V0.csproj" Id="477291cd-0459-47c1-b7dd-d07cbd95e713" />
   </Folder>
   <Folder Name="/Task3/">
-    <Project Path="Tyuiu.GojtievTK.Sprint0.Task3.V0.Lib/Tyuiu.GojtievTK.Sprint0.Task3.V0.Lib.csproj" Id="5912e87f-22c3-461b-89e5-6a9df40530c1" />
-    <Project Path="Tyuiu.GojtievTK.Sprint0.Task3.V0.Test/Tyuiu.GojtievTK.Sprint0.Task3.V0.Test.csproj" Id="c104458a-df61-4946-9a0f-13381a83e00f" />
-    <Project Path="using Tyuiu.GojtievTK.Sprint0.Task3.V0/Tyuiu.GojtievTK.Sprint0.Task3.V0.csproj" Id="99a8f29c-6eff-4848-b824-3689ad9cd1bd" />
+    <Project Path="Tyuiu.GojtievTK.Sprint0.Task3.V0.Lib/Tyuiu.GojtievTK.Sprint0.Task3.V0.Lib.csproj" Id="f2f39a14-5ca8-4a2a-b254-294e981a868c" />
+    <Project Path="Tyuiu.GojtievTK.Sprint0.Task3.V0.Test/Tyuiu.GojtievTK.Sprint0.Task3.V0.Test.csproj" Id="4e797c17-9177-4896-942f-008eb8265853" />
+    <Project Path="Tyuiu.GojtievTK.Sprint0.Task3.V0/Tyuiu.GojtievTK.Sprint0.Task3.V0.csproj" Id="76373eda-f898-468b-9240-17d445a2ceca" />
   </Folder>
 </Solution>
